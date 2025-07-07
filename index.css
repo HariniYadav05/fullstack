@@ -1,0 +1,15 @@
+h1{
+    background-color: greenyellow;
+}
+h1,p{
+    font-size: 30px;
+}
+*{
+    font-style: italic;
+}
+.big-font-class{
+    background-color: indigo;
+}
+#heading{
+    border-color: gray;
+}
